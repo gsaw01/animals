@@ -1,6 +1,6 @@
 # Animals Repository
 
-Welcome to the *Animals* Repository created for GIT practice. It contains info about three 
+Welcome to the *Animals* Repository created for GIT practice. It contains info about 
 animals.
 
 1. [**Panda**](panda.md)  
