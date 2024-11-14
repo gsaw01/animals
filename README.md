@@ -5,12 +5,16 @@ animals.
 
 1. [**Panda**](panda.md)  
 
-👆Click to read about pandas.
+  👆Click to read about pandas.
  
 2. [**Lama**](lama.md)  
 
-👆Click to read about lamas.
+  👆Click to read about lamas.
 
 3. [**Koala**](koala.md)  
 
-👆Click to read about koalas.
+  👆Click to read about koalas.
+
+3. [**Hamster**](hamster.md)
+
+  👆Click to read about hamsters.
