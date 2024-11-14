@@ -15,6 +15,6 @@ animals.
 
   👆Click to read about koalas.
 
-3. [**Hamster**](hamster.md)
+4. [**Hamster**](hamster.md)
 
   👆Click to read about hamsters.
